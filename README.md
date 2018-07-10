@@ -2,6 +2,7 @@
 
 ## Architecture:
 - Consolidation, cleaning and transforming data using Alteryx.
+- Data pulled from Jan 2017 to May 2018
 - Storage in SQL Server.
 - Extract data in tde for better performance
 - Dashboards and sheets developed in Desktop Browser size (1000 * 800)
